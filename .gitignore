@@ -1,0 +1,25 @@
+# 일반적인 .gitignore 예시
+
+# 빌드 파일 무시
+/build/
+/dist/
+
+# 개인 설정 파일 무시
+*.log
+*.env
+*.sublime-workspace
+
+# OS에서 생성되는 파일 무시
+.DS_Store
+Thumbs.db
+
+# Python 관련 파일 무시
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter 노트북 체크포인트 무시
+.ipynb_checkpoints/
+
+# 가상환경 무시 (venv 폴더)
+venv/
