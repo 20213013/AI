@@ -23,3 +23,30 @@ __pycache__/
 
 # 가상환경 무시 (venv 폴더)
 venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+.venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# 기타 일반적인 제외 파일
+*.log
+*.pot
+*.pyc
+.env
+.DS_Store
