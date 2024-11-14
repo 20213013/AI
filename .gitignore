@@ -50,3 +50,5 @@ ENV/
 *.pyc
 .env
 .DS_Store
+AudioMNIST_RNN/sample_audio.wav
+AudioMNIST_RNN/Audio_MNIST_RNN_Waveform.ipynb
